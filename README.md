@@ -17,4 +17,10 @@ python3 ai_camera_defeat_patch_generator.py --mode full --output adv_patch.png -
 
 --adv: Enables adversarial optimization.
 
---iterations: Number of optimization steps (default: 50).
+--iterations: Number of optimization steps (default: 50)
+
+## Research Sources
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9147429/
+
+https://github.com/inspire-group/adv-patch-paper-list/blob/main/README.md
