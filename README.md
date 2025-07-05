@@ -1,7 +1,7 @@
 # AI-Camera-Defeat
 
 ## Installation
-pip install numpy pillow qrcode python-barcode matplotlib
+pip install numpy pillow qrcode python-barcode matplotlib torch torchvision
 
 ## Example Usage
 
