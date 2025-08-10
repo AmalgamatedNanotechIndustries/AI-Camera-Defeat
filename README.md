@@ -21,6 +21,8 @@ python3 ai_camera_defeat_patch_generator.py --mode full --output adv_patch.png -
 
 ## Research Sources
 
+https://arxiv.org/pdf/2101.06896 (new)
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9147429/
 
 https://github.com/inspire-group/adv-patch-paper-list/blob/main/README.md
